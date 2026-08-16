@@ -13,11 +13,12 @@ Multimodal stress estimator fusing EEG, ECG, and speech via time–frequency fea
 **[Nyaya Setu (न्याय सेतु)](https://github.com/Aarushi0427/nyaya-setu-legal-assistant)**
 Speech-to-speech legal aid web app for visually impaired citizens in India. Built with RAG over BNS 2023 statutory corpus, Whisper ASR for Hinglish/Hindi/English, and a custom compliance evaluation framework (CAEF).
 
+**[NLP-Based Mental Health Chatbot](https://github.com/Aarushi0427/nlp-mental-health-chatbot)** · *Core Architecture for AFC#8 Best Paper*  
+Multilingual NLP pipeline for emotion classification and empathetic response generation utilizing fine-tuned transformer architectures (BERT, RoBERTa) and conversational coherence evaluation.
+
 **ECG/EEG Signal Analysis using Machine Learning**  
 Biomedical signal processing with Butterworth and Chebyshev filters, time–frequency feature extraction, and supervised ML models for stress and anomaly detection.
 
-**Speech and Music Noise Reduction**  
-Low-latency noise suppression pipeline using spectral subtraction, adaptive filtering, and ML-driven dynamic acoustic environment handling.
 
 ---
 
