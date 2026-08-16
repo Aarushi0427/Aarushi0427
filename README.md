@@ -10,7 +10,7 @@ Researching biomedical signal processing, NLP, and accessible AI.
 **[Multimodal Psychiatric Signal Analysis System](https://github.com/Aarushi0427/multimodal-stress-estimator)** · An independent research.  
 Multimodal stress estimator fusing EEG, ECG, and speech via time–frequency feature fusion. Includes signal preprocessing pipelines (ICA, HRV, MFCC) and a live Cognitive Stress Index dashboard.
 
-**Nyaya Setu (न्याय सेतु)**  
+**[Nyaya Setu (न्याय सेतु)](https://github.com/Aarushi0427/nyaya-setu-legal-assistant)**
 Speech-to-speech legal aid web app for visually impaired citizens in India. Built with RAG over BNS 2023 statutory corpus, Whisper ASR for Hinglish/Hindi/English, and a custom compliance evaluation framework (CAEF).
 
 **ECG/EEG Signal Analysis using Machine Learning**  
