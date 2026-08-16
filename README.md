@@ -7,7 +7,7 @@ Researching biomedical signal processing, NLP, and accessible AI.
 
 ## 🔬 Research Projects
 
-**[Multimodal Psychiatric Signal Analysis System](https://github.com/Aarushi0427/multimodal-stress-estimator)** · CBDE Research Program, NIT Warangal  
+**[Multimodal Psychiatric Signal Analysis System](https://github.com/Aarushi0427/multimodal-stress-estimator)** · An independent research.  
 Multimodal stress estimator fusing EEG, ECG, and speech via time–frequency feature fusion. Includes signal preprocessing pipelines (ICA, HRV, MFCC) and a live Cognitive Stress Index dashboard.
 
 **Nyaya Setu (न्याय सेतु)**  
